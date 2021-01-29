@@ -2,5 +2,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="BANGLA",BTV [CTG]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/16BWN9RwZX1QhaV77" group-title="HINDI", STAR GOLD HD
+
+http://208.115.215.42:80/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+
 
 
